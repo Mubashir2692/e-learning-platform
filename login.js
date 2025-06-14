@@ -1,1 +1,1 @@
-function login() { console.log('Fixed login functionality'); }
+function login() { console.log('Enhanced login with security'); }
